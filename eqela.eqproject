@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# thurs3
+#
+
+projectname: thurs3
+vendorid: com.thurs.sample
+mainmodule: com.thurs.sample.thurs3
